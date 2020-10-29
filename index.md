@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Protic-Monash/test-minimal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![protic_poster](https://github.com/Protic-Monash/test-minimal/blob/gh-pages/protic_poster.jpg)
+![vr](https://github.com/Protic-Monash/test-minimal/blob/gh-pages/vr.jpg)
 
 ### Markdown
 
