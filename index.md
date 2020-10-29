@@ -1,9 +1,10 @@
-![pict1](https://github.com/Protic-Monash/test-minimal/blob/gh-pages/protic_poster.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Protic-Monash/test-minimal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+![protic_poster](https://github.com/Protic-Monash/test-minimal/blob/gh-pages/protic_poster.jpg)
 
 ### Markdown
 
